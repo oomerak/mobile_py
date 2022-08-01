@@ -1,2 +1,2 @@
 # mobile_py
-Training application development 4 Python  w/ Kivy
+Mobile Training | w/Python w/Kivy
